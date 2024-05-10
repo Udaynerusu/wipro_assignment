@@ -1,0 +1,90 @@
+Assignment 2: Develop a case study analyzing the implementation of SDLC phases in a real-world engineering project. Evaluate how Requirement Gathering, Design, Implementation, Testing, Deployment, and Maintenance contribute to project outcomes.
+
+example: an ecommerce website
+
+
+SDLC Phases: 
+
+
+1. Requirement Gathering phase:
+
+
+1. The project team conducts market research, surveys, and interviews with stakeholders to gather requirements.
+
+2. Requirements include website functionality (product catalog, shopping cart, checkout process), user experience (navigation, search functionality), security measures (payment gateway integration, data encryption), and scalability (handling high traffic volumes).
+
+3. Collaboration with marketing, sales, and IT teams ensures that requirements are comprehensive, aligned with business goals, and meet customer needs.
+
+
+2. Design phase:
+
+
+1. The design phase involves creating wireframes, mockups, and prototypes to visualize the website layout and user interface.
+
+2. User experience (UX) design focuses on intuitive navigation, clear product categorization, and responsive design for different devices.
+
+3. Technical architecture design includes selecting e-commerce platforms, databases, hosting solutions, and third-party integrations. 
+
+4. Iterative design reviews and feedback sessions ensure that the design meets usability, performance, and branding requirements.
+
+
+3. Implementation phase:
+
+
+1. The implementation phase involves developing and configuring the e-commerce website based on design specifications.
+
+2. Front-end development includes HTML/CSS coding, JavaScript functionality for interactive elements, and integration with UX/UI designs.
+
+3. Back-end development involves setting up servers, databases, and server-side scripting for website functionality.
+
+4. Integration with third-party services such as payment gateways, shipping providers, and customer relationship management (CRM) systems is implemented.
+
+5. Quality assurance processes are integrated throughout development to ensure code quality, security, and performance.
+
+
+4. Testing phase:
+
+
+1. Testing activities include functional testing, usability testing, security testing, and performance testing.
+
+2. Functional testing verifies that website features and functionalities work as expected, including product search, add to cart, and checkout process.
+
+3. Usability testing evaluates the user interface and navigation to ensure a seamless shopping experience.
+
+4. Security testing identifies vulnerabilities in the website, such as SQL injection, cross-site scripting (XSS), and data breaches.
+
+5. Performance testing assesses website responsiveness, load times, and scalability under different traffic conditions.
+
+5. Deployment phase:
+
+
+1. Deployment involves launching the e-commerce website to production servers and making it accessible to customers.
+
+2. Deployment activities include configuring DNS settings, setting up SSL certificates for secure connections, and configuring caching and content delivery networks (CDNs) for improved performance.
+
+3. Training is provided to internal staff on website administration, content management, and order processing.
+
+4. Marketing and promotional activities are coordinated to drive traffic to the new website and attract customers.
+
+6. Maintenance phase:
+
+
+1. Maintenance activities include ongoing monitoring, updates, and support to ensure the website's reliability, security, and performance.
+
+2. Regular updates are applied to address software vulnerabilities, add new features, and improve user experience.
+
+3. Customer support channels are established to address inquiries, feedback, and issues promptly.
+
+4. Continuous optimization efforts are made to enhance website performance, conversion rates, and customer satisfaction.
+
+
+
+
+
+
+
+
+
+
+
+

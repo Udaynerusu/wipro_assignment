@@ -1,0 +1,25 @@
+Assignment:
+
+Ensure the script checks if a specific file (e.g., myfile.txt) exists in the current directory. If it exists, print "File exists", otherwise print "File not found". 
+
+
+code:   
+
+
+#!/bin/bash 
+filename="myfile.txt" 
+if [ -e "$filename" ]; then 
+	echo "File exists" 
+else 
+	echo "File not found" 
+fi 
+
+
+
+save the file as "fileops.sh"
+
+
+change file permission "chmod +x fileops.sh"
+
+
+to execute  "./fileops.sh"

@@ -1,0 +1,22 @@
+Assignment:
+
+
+Create a function that takes a filename as an argument and prints the 
+number of lines in the file. Call this function from your script with 
+different filenames. 
+
+
+
+#!/bin/bash 
+cnt_lines() { 
+	filename="$1" 
+	if [ -f "$filename" ]; then 
+		lines=$(wc -l < "$filename") 
+		echo "Number of lines in $filename: $lines" 
+	else 
+		echo "File $filename not found." 
+	fi 
+} 
+# Call the function with different filenames 
+cnt_lines "file1.txt" 
+cnt_lines "file2.txt" 

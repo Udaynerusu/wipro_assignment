@@ -1,0 +1,91 @@
+Assignment 2: 
+
+
+Produce a comparative infographic of TDD, BDD, and FDD methodologies. Illustrate their unique approaches, benefits, and suitability for different software development contexts. Use visuals to enhance understanding.
+
+
+Test-Driven Development (TDD):
+
+
+Approach:
+
+ Tests are written before code, driving development.
+
+
+Benefits:
+
+
+Ensures code correctness by design.
+
+Encourages modular and decoupled code.
+
+Provides a safety net for refactoring.
+
+
+Suitability:
+
+
+Best for small to medium-sized projects.
+
+Ideal for iterative development cycles.
+
+Well-suited for teams with a strong testing culture.
+
+
+Behavior-Driven Development (BDD):
+
+
+Approach:
+
+
+ Focuses on user behaviors and system interactions.
+
+
+Benefits:
+
+
+Improves collaboration between developers, testers, and non-technical stakeholders.
+
+Enhances clarity and understanding of requirements through scenarios.
+
+Supports the creation of living documentation.
+
+
+Suitability:
+
+
+Suitable for projects with complex business logic.
+
+Effective for teams with non-technical stakeholders.
+
+Helps align development with business goals.
+
+
+Feature-Driven Development (FDD):
+
+
+Approach:
+
+ Emphasizes on building features incrementally.
+
+Benefits:
+
+
+Provides a structured approach to software development.
+
+Enables rapid delivery of tangible features.
+
+Facilitates team collaboration and communication.
+
+
+Suitability:
+
+
+Well-suited for large-scale projects with multiple teams.
+
+Effective for projects with clearly defined features.
+
+Suitable for environments where predictability is crucial.
+
+
+

@@ -1,0 +1,82 @@
+Assignment 1:
+
+SDLC Overview - Create a one-page infographic that outlines the SDLC phases 
+(Requirements, Design, Implementation, Testing, Deployment), highlighting the 
+importance of each phase and how they interconnect.
+
+
+
+Software Development Life Cycle (SDLC) Phases
+
+Requirements:
+
+
+Gathering client needs.
+Outlining project goals and objectives.
+Establishing scope and constraints.
+Critical for aligning development with client expectations.
+
+
+Design:
+
+
+Translating requirements into system specifications.
+Creating architecture and UI/UX design.
+Planning database structure.
+A blueprint for the development process.
+
+
+Implementation:
+
+
+Writing code based on design specifications.
+Incorporating best practices and coding standards.
+Collaboration among developers for code integration.
+Builds the actual product.
+
+
+Testing:
+
+
+Evaluating the product for quality and functionality.
+Detecting and fixing bugs and errors.
+Ensuring compliance with requirements.
+Validates the product's readiness for deployment.
+
+
+Deployment:
+
+
+Rolling out the software for actual use.
+Installing and configuring the system.
+User training and documentation.
+Continuous monitoring and support.
+
+
+Interconnection of Phases:
+
+
+Requirements → Design: Design is based on gathered requirements, ensuring the system aligns with client needs.
+
+
+Design → Implementation: Implementation follows the design blueprint, ensuring the actual product reflects the planned architecture.
+
+
+Implementation → Testing: Testing identifies bugs and errors in the implemented code, ensuring quality and functionality.
+
+
+Testing → Deployment: Deployment occurs after successful testing, ensuring a stable and reliable product reaches users.
+
+
+Importance of SDLC Phases:
+
+
+Requirements: Sets project direction and scope.
+
+Design: Blueprint for development, ensures system integrity.
+
+Implementation: Converts design into working software.
+
+Testing: Ensures quality, reliability, and functionality.
+
+Deployment: Transitions software into practical use.
